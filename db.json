@@ -18,5 +18,23 @@
             "modifiedDate": "2018-07-12T16:39:22",
             "lookupName": "Alert Progress"
         }
+    ],
+  "data": {
+    "lookup": [
+      {
+        "id": 1,
+        "order": 1,
+        "code": "O",
+        "description": "Open",
+        "active": "1"
+      },
+      {
+        "id": 2,
+        "order": 2,
+        "code": "A",
+        "description": "Assigned",
+        "active": "1"
+      }
     ]
+  }
 }
