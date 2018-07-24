@@ -1,4 +1,9 @@
 {
+  "retrieveUserMappingById": {
+    "user": [
+      
+    ]
+  },
   "retrieveUpdatedData": {
     "lookup": [
       {
@@ -19,6 +24,8 @@
         "modifiedDate": "1532233062000",
         "lookupName": "Alert Progress"
       }
+    ],
+    "hpt": [
     ]
   }
 }
